@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Homer()
+comment0.text=\r\n\ Constructor\ for\ Homer.\ Sets\ stats\ to\ specified\ values.\r\n
+comment1.params=
+comment1.target=int\ giveExp()
+comment1.text=\r\n\ Returns\ the\ exp\ of\ the\ boss.\r\n\ @return\ int\ exp\r\n
+comment2.params=
+comment2.target=void\ die()
+comment2.text=\r\n\ Called\ when\ boss\ dies.\ Adds\ a\ key\ to\ the\ players\ inventory.\r\n
+comment3.params=player
+comment3.target=int\ battle(Sanjeev)
+comment3.text=\r\n\ Initializes\ a\ battle\ with\ the\ player\ against\ the\ boss.\r\n\ @param\ Sanjeev\ player\ the\ player\r\n
+comment4.params=
+comment4.target=void\ attack()
+comment4.text=\r\n\ The\ attack\ for\ both\ the\ player\ and\ the\ boss\r\n
+numComments=5

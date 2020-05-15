@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=List()
+comment0.text=\r\n\ Constructor\ for\ List.\ Adds\ all\ places\ to\ places\ array.\r\n
+comment1.params=
+comment1.target=void\ placesPrint()
+comment1.text=\r\n\ Prints\ out\ all\ the\ places.\r\n
+comment2.params=num
+comment2.target=java.lang.String\ getName(int)
+comment2.text=\r\n\ Returns\ the\ place\ name\ of\ the\ specified\ place.\r\n\ @param\ int\ num\ the\ place\ you\ want\ to\ return\r\n\ @return\ String\ the\ name\ of\ the\ place\ \r\n
+comment3.params=
+comment3.target=int\ getCurrentPlace()
+comment3.text=\r\n\ Returns\ the\ current\ place.\r\n\ @returh\ int\ value\ of\ current\ place\r\n
+comment4.params=x
+comment4.target=void\ setCurrentPlace(int)
+comment4.text=\r\n\ Sets\ the\ current\ place\ of\ the\ player\ to\ the\ specified\ place.\r\n\ @param\ int\ x\ the\ place\ you\ want\ to\ set.\r\n
+numComments=5

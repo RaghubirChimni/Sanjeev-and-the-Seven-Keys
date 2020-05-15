@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=name\ health\ power\ level
+comment0.target=Boss(java.lang.String,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ giveExp()
+comment2.params=
+comment2.target=void\ attack()
+comment3.params=
+comment3.target=void\ runBoss()
+comment4.params=x\ e
+comment4.target=void\ addBoss(int,\ Boss)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ die()
+numComments=7

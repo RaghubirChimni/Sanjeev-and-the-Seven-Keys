@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getName()
+comment0.text=\r\n\ Returns\ the\ name.\r\n\ @return\ String\ name\r\n
+comment1.params=n
+comment1.target=void\ setName(java.lang.String)
+comment1.text=\r\n\ Sets\ the\ name\ to\ the\ paramter.\r\n\ @param\ String\ name\ the\ name.\r\n
+comment2.params=d
+comment2.target=void\ setDescription(java.lang.String)
+comment2.text=\r\n\ Sets\ the\ description\ to\ the\ paramter.\r\n\ @param\ String\ description\ the\ description.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ a\ string\ representation\ of\ the\ object\ with\ name\ and\ description.\r\n\ @return\ String\ with\ name\ and\ description\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getWeapons()
+comment4.text=\r\n\ Returns\ the\ array\ of\ weapons\ the\ player\ has.\r\n\ @return\ ArrayList\ with\ weapons\r\n
+comment5.params=
+comment5.target=java.util.ArrayList\ getUsables()
+comment5.text=\r\n\ Returns\ the\ array\ of\ usable\ items\ the\ player\ has.\r\n\ @return\ ArrayList\ with\ usable\ items\r\n
+numComments=6

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Fists()
+comment0.text=\r\n\ Constructor\ for\ Fists.\ Sets\ stats\ to\ specified\ values.\r\n
+comment1.params=
+comment1.target=void\ addToInv()
+comment1.text=\r\n\ Overrides\ abstract\ parent\ method.\ Not\ used.\r\n
+numComments=2

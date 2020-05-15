@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Places()
+comment0.text=\r\n\ Constructor\ for\ Places.\ Sets\ the\ place\ number\ to\ 0.\r\n
+comment1.params=name\ num
+comment1.target=Places(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ Places\ with\ paramters\ of\ name\ and\ place\ number.\r\n\ @param\ String\ name\ the\ name\ of\ the\ place\r\n\ @param\ int\ num\ the\ place\ number\r\n
+comment2.params=
+comment2.target=int\ currentPlaceNum()
+comment2.text=\r\n\ Returns\ the\ current\ place\ number\ of\ the\ player.\r\n\ @return\ int\ the\ current\ place\ number\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPlaceName()
+comment3.text=\r\n\ Returns\ the\ current\ place\ of\ the\ player.\r\n\ @return\ String\ the\ current\ place\ name\r\n
+numComments=4

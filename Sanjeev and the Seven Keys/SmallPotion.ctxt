@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SmallPotion()
+comment0.text=\r\n\ Constructor\ for\ SmallPotion.\ Sets\ stats\ to\ specified\ values.\r\n
+comment1.params=
+comment1.target=void\ addToInv()
+comment1.text=\r\n\ Adds\ this\ object\ to\ the\ usables\ array.\r\n
+numComments=2
